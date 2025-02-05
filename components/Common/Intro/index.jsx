@@ -8,7 +8,7 @@ import Tools from './Tools';
 import Skills from './Skills';
 import Image from 'next/image';
 import { NAME, DESIGNATION, SOCIAL_LINKS } from '../../../constants/constants';
-import Valit from '../../../public/images/valit.jpg';
+import Valit from '../../../public/images/Thon Chhavalit.png';
 
 const Intro = () => {
   return (

@@ -1,6 +1,6 @@
 export const NAME = 'Thon Chhavalit';
 
-export const DESIGNATION = ` DevOps Engineer |  Web Developer | Back-end Developer`;
+export const DESIGNATION = ` DevOps Engineer |  Full Stack Web Developer | Technical Blogger`;
 
 export const DETAILS = {
   Residence: 'Cambodia',
@@ -10,20 +10,16 @@ export const DETAILS = {
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
-    level: '75%',
+    title: 'FUll Stack Developer',
+    level: '85%',
   },
   {
     title: 'React Developer',
     level: '91%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '90%',
   },
   {
     title: 'Technical Blogger',
@@ -37,8 +33,6 @@ export const TECH_STACK = [
   'NextJS',
   'TypeScript',
   'NodeJS',
-  'Redux',
-  'Zustand',
   'CSS',
   'SCSS',
   'TailwindCSS',
@@ -56,12 +50,12 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'thonchhavalit@gmail.com',
+  PHONE: '+855974769798',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/thonchhavalit',
+  LINKEDIN: 'https://www.linkedin.com/in/chhavalitthon/',
+  TWITTER: 'https://twitter.com/thonchhavalit',
+  FACEBOOK: 'https://www.facebook.com/Thon_Chavalit',
 };
